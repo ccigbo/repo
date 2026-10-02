@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 To reach me, email chima@julob.com
-- 😄 Pronouns: nye/m/ego
+- 😄 Pronouns: nye/m/oru
 - ⚡ Fun fact: I like tea lol
 
 <!---
