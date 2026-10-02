@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chimaizuobi
+- 👋 Hi, I’m @ccigbo
 - 👀 I’m interested in Fintech.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects.
